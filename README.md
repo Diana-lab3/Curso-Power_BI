@@ -1,7 +1,7 @@
 # Curso-Power_BI
 <p>Este curso me permite desarrollar habilidades prácticas y técnicas 
-  para crear visualizaciones de datos efectivas utilizando Microsoft Power BI; 
-  he realizado ejercicios básicos de transformación de datos complejos 
+  para crear visualizaciones de datos efectivas utilizando Microsoft Power BI. 
+  He realizado ejercicios básicos de transformación de datos complejos 
   en información significativa y accionable a través de paneles interactivos 
   e informes dinámicos que facilitan la toma de decisiones basada en datos</p>
 
